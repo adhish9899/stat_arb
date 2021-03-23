@@ -1,10 +1,3 @@
-
-'''
-pandas == 1.1.4
-numpy == 1.18.0
-yfinance == 0.1.55
-'''
-
 import pandas as pd
 import numpy as np
 import datetime as dt
@@ -291,7 +284,7 @@ for pair in pair_list:
 
                     break
 
-print()
+print("\n\n PAIRWISE PNL")
 ## Plotting Daywise PNL
 ls_ = []
 for keys, items in m2m_dict.items():
