@@ -12,7 +12,7 @@ import yfinance as yf
 
 
 ## Please change DATA PATH accordingly after extracting the data zip file. 
-DATA_PATH = lambda x: "/Users/niveshia/Desktop/data/intra_data/%s.csv" %(x)
+DATA_PATH = lambda x: "data/%s.csv" %(x)
 
 pair_list = [["GOOGL", "GOOG"], ["FOXA", "FOX"], ["NWSA", "NWS"]]
 
