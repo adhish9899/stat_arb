@@ -1,7 +1,7 @@
 # STATISTICAL ARBITRAGE BACKTESTING
 
 ## What is it?
-This repository contains code and data to conduct stat arb backtesting over for the last 1 month.
+This repository contains code and data to conduct stat arb backtesting for the last 1 month approximately.
 
 ## Dependencies
 ```bash
