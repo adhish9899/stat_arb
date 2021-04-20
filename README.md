@@ -1,7 +1,7 @@
 # STATISTICAL ARBITRAGE BACKTESTING
 
 ## What is it?
-This repository contains code and data to conduct stat arb backtesting for the last 1 month approximately.
+This repository contains code and data to conduct stat arb backtesting from 2021-02-21 to 2021-03-21. Approx. 1 month data is available freely from IEX cloud. 
 
 ## Dependencies
 ```bash
